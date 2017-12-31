@@ -1,0 +1,23 @@
+:pairs:
+  - :base: BTC
+    :target: AUD
+  - :base: LTC
+    :target: AUD
+  - :base: ETH
+    :target: AUD
+  - :base: ETC
+    :target: AUD
+  - :base: XRP
+    :target: AUD
+  - :base: BCH
+    :target: AUD
+  - :base: LTC
+    :target: BTC
+  - :base: ETH
+    :target: BTC
+  - :base: ETC
+    :target: BTC
+  - :base: XRP
+    :target: BTC
+  - :base: BCH
+    :target: BTC
